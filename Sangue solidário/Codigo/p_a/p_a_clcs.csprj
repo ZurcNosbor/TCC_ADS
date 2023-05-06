@@ -1,0 +1,25 @@
+
+<codestructure version="2.1.0">
+<phptree>
+<treenode node="BASE;PHP:PHP Word;3583536972;f8;7;12;7;;;;vpos;;v;;a;;r&apos;projeto_aplicado&apos;;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="HOST;PHP:PHP Word;3583536972;f8;4;12;4;;;;vpos;;v;;a;;r&apos;localhost&apos;;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="PASS;PHP:PHP Word;3583536972;f8;6;12;6;;;;vpos;;v;;a;;r&apos;coco&apos;;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="USER;PHP:PHP Word;3583536972;f8;5;12;5;;;;vpos;;v;;a;;r&apos;root&apos;;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="config.php;PHP:PHP Include;2246156691;f9;4;19;4;;4281776501;f9;3;19;3;;2421517952;f14;42;24;42;;1352691059;f9;3;19;3;;684573041;f10;4;20;4;;2896172956;f9;4;19;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="protect.php;PHP:PHP Include;2246156691;f9;2;20;2;;4281776501;f9;2;20;2;;684573041;f10;2;21;2;;2896172956;f9;2;20;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="senhaValida;PHP:Function Name;1352691059;f0;58;1;62;;;;vpos;;v;;a;;r;;d0,59;;b0,0;;m0;;e0;;i0;;o;;k;;lsenha;;p;;x;;n">
+</treenode>
+<treenode node="validar;PHP:Function Name;1352691059;f0;65;1;68;;;;vpos;;v;;a;;r;;d0,66;;b0,0;;m0;;e0;;i0;;o;;k;;lnome;;p;;x;;n">
+</treenode>
+</phptree>
+<jstree>
+</jstree>
+<pythontree>
+</pythontree>
+</codestructure>
